@@ -17,10 +17,8 @@ Repositorio de proyectos y prácticas desarrollados para la asignatura de Tratam
     * Limpieza de texto con Regex y NLTK (Stopwords, Lemmatization).
     * Vectorización mediante TF-IDF y Sentence Transformers (Embeddings).
 
-### IA Explicable (XAI) e Informes Técnicos
-* **eXplainable Artificial Intelligence_ LIME & SHAP.pdf**: Análisis sobre la interpretación de modelos de caja negra mediante técnicas de atribución de características.
-* **Text Mining.pdf**: Documentación técnica sobre el flujo de trabajo de minería de textos.
-* **Clasificacion.pdf**: Informe técnico sobre los modelos de clasificación implementados.
+### IA Explicable (XAI)
+* **eXplainable Artificial Intelligence_ LIME & SHAP.pdf**: Trabajo de teoría sobre la interpretación de modelos de caja negra mediante técnicas de atribución de características.
 
 ## Tecnologías Utilizadas
 * **Lenguaje**: Python
